@@ -5,7 +5,6 @@
 Настроено взаимодействие Python-приложения с внешними API-сервисами, создан собственный API-сервис на базе проекта Django, подключено SPA к бэкенду на Django через API, созданы образы и запущены контейнеры Docker, созданы, развёрнуты и запущены на сервере мультиконтейнерные приложения, закреплены на практике основы DevOps.
 
 Технологии в проекте: python, JSON, Django, React, API, Docker, Nginx, PostgreSQL, Gunicorn, JWT, Postman
-Проект на GitHub: https://github.com/mtedoradze/foodgram-project-react
 
 2. *[Проект Yatube](https://github.com/mtedoradze/hw05_final)* - соц. Сеть для публикации личных дневников.
 
